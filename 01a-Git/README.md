@@ -6,7 +6,7 @@
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=01-Git">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Cree el repositorio-henry en github de acuerdo a las indicaciones del homework, esta clase muestra paso a paso los comandos de git bash.
       </a>
     </td>
   </tr>
