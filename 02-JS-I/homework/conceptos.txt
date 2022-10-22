@@ -1,0 +1,10 @@
+// Variables:
+   Se utiliza para guardar informacion que se usara mas adelante, permite que el codigo sea mas eficiente evitando que sea repetitivo.
+// Strings:
+   Se le denomina de esta forma al texto y siempre van entre comillas.
+// Funciones:
+   Las funciones son un conjunto de instrucciones que dan un resultado.
+// Declaraciones:
+   Se usa para evaluar una expresion, da resultados diferentes depende de si se llega a cumplir o no la expresion. 
+// Valores booleanos:
+   Son valores que tienen dos opciones, verdadero o falso.
