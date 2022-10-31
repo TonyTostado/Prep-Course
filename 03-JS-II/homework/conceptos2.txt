@@ -1,0 +1,8 @@
+// for:
+   Es un tipo de bucle en javascript en donde se declara una variable la cual se desarrolla mientras se cumpla una expresion condicional, esta tambien nos permite definir el incremento de la variable.
+// &&:
+   Es un operador logico que representa a 'y' el cual va entre dos o mas expresiones y da como resultado 'true' siempre y cuando ambas sean verdaderas.
+// ||:
+   Es un operador logico que representa a 'o' el cual va entre dos o mas expresiones y da como resultado 'true' siempre y cuando al menos una sea verdadera.
+// !:
+   Es el operador logico que representa a 'no' el cual va entre dos o mas expresiones y da como resultado 'true' o 'false' de acuerdo a las declaraciones.
