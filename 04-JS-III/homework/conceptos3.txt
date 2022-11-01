@@ -1,0 +1,2 @@
+// array:
+   Los array son contenedores de varios tipos de datos.
